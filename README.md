@@ -13,3 +13,7 @@ Written by Yaser Khorrami
 
 :dart:
 Please let me know if you require the full electronic version of the book.
+
+
+:writing_hand: Published Paper:
+https://opg.optica.org/ao/abstract.cfm?uri=ao-57-7-1634
